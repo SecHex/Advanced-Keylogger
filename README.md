@@ -1,6 +1,6 @@
 # Advanced-Keylogger
 
-Advanced Keylogger in python. 
+Advanced Keylogger in python.                      
 Gmail accounts doenst work anymore! 
 
 
